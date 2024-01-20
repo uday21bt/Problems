@@ -1,0 +1,15 @@
+
+.btn{
+    background-color: #3498db;
+    color: #fff;
+    margin-left: 20rem;
+    padding: 10px 20px;
+    width: 20rem;
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.input{
+    cursor: pointer;
+}
